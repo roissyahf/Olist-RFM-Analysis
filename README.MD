@@ -16,4 +16,4 @@ streamlit run app.py
 
 ## The dashboard appearence
 
-It has been deployed, [just check this out here](https://starlex-ecommerce-dashboard.streamlit.app/)
+It has been deployed, [just check this out here](https://olist-performance-and-rfm-analysis.streamlit.app/)

@@ -1,4 +1,5 @@
 # Customer Segmentation Using RFM Analysis
+
 ## Problem Statement
 Under the period of February 2017 - August 2018, 96.648% Olist customers didn't make second purchase. In order to improve their services, retain customers, and attract new ones, Olist Brazilian e-commerce businesses need to modernize their marketing and customer strategies by personalizing them. There are a variety of data science models that can help with this, and one of them is customer segmentation analysis.
 
@@ -26,4 +27,4 @@ This data includes information about the customers, such as purchase history, an
 9. Analyzing RFM segments.
 10. Build a dashboard using streamlit.
 
-I have also build Tableau dasboard, [kindly check via this link](https://public.tableau.com/views/RFM_Analysis_17065090987710/story?:language=en-US&:display_count=n&:origin=viz_share_link)
+I have also built Tableau dasboard, [kindly check via this link](https://public.tableau.com/views/RFM_Analysis_17065090987710/story?:language=en-US&:display_count=n&:origin=viz_share_link)
